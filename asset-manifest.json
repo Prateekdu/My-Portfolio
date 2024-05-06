@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.f334de47.css",
+    "main.js": "/My-Portfolio/static/js/main.deb89a04.js",
+    "static/js/453.acca0757.chunk.js": "/My-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/material-symbols-rounded.woff2": "/My-Portfolio/static/media/material-symbols-rounded.fc677ceab692ae78b02b.woff2",
+    "static/media/material-symbols-outlined.woff2": "/My-Portfolio/static/media/material-symbols-outlined.7043db1e91c4ae53dd66.woff2",
+    "static/media/material-symbols-sharp.woff2": "/My-Portfolio/static/media/material-symbols-sharp.c42820c3a090b37602b2.woff2",
+    "static/media/slick.svg": "/My-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/My-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/My-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/My-Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/My-Portfolio/index.html",
+    "main.f334de47.css.map": "/My-Portfolio/static/css/main.f334de47.css.map",
+    "main.deb89a04.js.map": "/My-Portfolio/static/js/main.deb89a04.js.map",
+    "453.acca0757.chunk.js.map": "/My-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f334de47.css",
+    "static/js/main.deb89a04.js"
+  ]
+}
