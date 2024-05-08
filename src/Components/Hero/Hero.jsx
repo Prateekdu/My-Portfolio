@@ -16,7 +16,7 @@ const Hero = () => {
                         <div className="tech-icon">
                             <img src='./assets/images/logo192.png' alt='' />
                         </div>
-                        <img src={process.env.PUBLIC_URL + './assets/images/oo.png'} alt='' />
+                        <img src='./assets/images/oo.png' alt='' />
                     </div>
                     <div>
                         <div className="tech-icon">
